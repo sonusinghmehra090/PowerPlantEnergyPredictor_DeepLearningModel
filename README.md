@@ -1,6 +1,6 @@
 # ➡️ Power Plant Energy Predictor
 
-#### Build and end-to-end Deeplearning Artificial Neural Network using FNN (feedforward Neural Network) to predict the energy produce from the Power plant station dataset
+## Build and end-to-end Deeplearning Artificial Neural Network using FNN (feedforward Neural Network) to predict the energy produce from the Power plant station dataset
 ### Project Description ⏬
 ##### Dataset contains real life 9570 datapoints with 4 features 
 ### ⏬ Features :
