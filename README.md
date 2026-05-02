@@ -2,7 +2,7 @@
 
 #### Build and end-to-end Deeplearning Artificial Neural Network using FNN (feedforward Neural Network) to predict the energy produce from the Power plant station dataset
 ### Project Description ⏬
-##### Dataset contains 9570 rows and 4 columns (features)
+##### Dataset contains real life 9570 datapoints with 4 features 
 ### ⏬ Features :
 #### AT: Ambient Temperature the temperature of the surrounding air (usually in °C). This affects the density of the air entering the gas turbine.
 #### V: Exhaust Vacuum the pressure of the steam after it has passed through the turbine (usually in cm Hg).
